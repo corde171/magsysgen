@@ -1,0 +1,15 @@
+Fire
+Water
+Air
+Rock
+Frost
+Lightning
+Wood
+Force
+Sonic
+Necrotic
+Life
+Entropy
+Acid
+Light
+Darkness
