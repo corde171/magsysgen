@@ -1,0 +1,12 @@
+Ray
+Cone
+Spike
+Volley
+Bolt
+Nova
+Explosion
+Implosion
+Reverse Nova
+Wall
+Dome
+Touch
