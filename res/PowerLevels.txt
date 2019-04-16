@@ -1,0 +1,9 @@
+Weak
+Mediocre
+Minor
+Lesser
+Basic
+Greater
+Major
+Grand
+Powerful
