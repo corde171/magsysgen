@@ -11,7 +11,7 @@ public class MagSysGen {
         this.alphabetLength = new Random().nextInt(20) + 5;
         this.alphabet = Interpreter.getAlphabetChars(alphabetLength);
         this.dictionary = new HashMap<>();
-        this.magicWordLength = new Random().nextInt(5) + 2;
+        this.magicWordLength = new Random().nextInt(4) + 2;
         this.makeDictionary();
     }
 
@@ -44,6 +44,9 @@ public class MagSysGen {
         System.out.println(sysGen.alphabetLength);
         System.out.println(sysGen.alphabet);
         System.out.println(sysGen.magicWordLength);
+        double possibleWords = (Math.pow(sysGen.alphabetLength, sysGen.magicWordLength));
+        System.out.println("Possible words: " + possibleWords);
+        System.out.println("Percentage of actual words over possible words: " + sysGen.dictionary.size()/possibleWords);
         Iterator<Map.Entry<String, String>> iterator = sysGen.dictionary.entrySet().iterator();
 
         iterator.forEachRemaining(consumer);
