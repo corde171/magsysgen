@@ -9,3 +9,5 @@ License: MIT License, can use with attribution in any application. See the LICEN
 Contributors:
 corde171
 
+IF YOU WANT TO SUGGEST SOMETHING, PLEASE USE THIS FORM: https://forms.gle/GfoKDujVNDi2Hf4e8
+
